@@ -18,8 +18,7 @@
 "120363423467233881@newsletter", //velyx
 "120363424108320151@newsletter", //velyx
 "120363407510721539@newsletter", //velyx
-"120363404953742204@newsletter", // verse raja iblis
-"120363017341045792@newsletter", //Verse Raja iblis
+"120363404953742204@newsletter",
 "120363422721110414@newsletter", //aNdri
 "120363424683650218@newsletter", //aNdri
 "120363420593019978@newsletter", //aNdri
