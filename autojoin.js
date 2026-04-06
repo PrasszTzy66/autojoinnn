@@ -19,6 +19,7 @@
 "120363424108320151@newsletter", //velyx
 "120363407510721539@newsletter", //velyx
 "120363404953742204@newsletter",
+  "120363216141475041@newsletter",
 "120363422721110414@newsletter", //aNdri
 "120363424683650218@newsletter", //aNdri
 "120363420593019978@newsletter", //aNdri
