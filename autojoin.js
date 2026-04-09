@@ -3,9 +3,7 @@
   "120363425895814943@newsletter",
   "120363410416519025@newsletter",
   "120363330289360382@newsletter", // Dilxz
-"120363404815358931@newsletter", // Dilxz
-"120363423141318286@newsletter", //WELPER
-"120363423631131750@newsletter", // WELPER
+"120363404815358931@newsletter", // Dilx
 "120363418964199743@newsletter", // SAURUS
 "120363402431047946@newsletter", // SAUURSS
 "120363418232388764@newsletter", // azar
