@@ -27,13 +27,9 @@
 "120363424683650218@newsletter", //aNdri
 "120363420593019978@newsletter", //aNdri
 "120363423798020237@newsletter", // Byyy
-"120363423750819550@newsletter", // Byyy
-"120363418977603376@newsletter", // Danz nano
+"120363423750819550@newsletter", // Byy
 "120363367872027291@newsletter", // ryszox
 "120363425712619297@newsletter", // ryszox
-"120363424300258652@newsletter", // putraavvip
-"120363422259437359@newsletter", // putraavvip
-"120363407206904293@newsletter", // putraavvip
 "120363406229786611@newsletter", //dekz
 "120363405316618186@newsletter", //dekz 
 "120363420598223146@newsletter", //de
